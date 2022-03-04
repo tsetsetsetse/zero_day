@@ -1,0 +1,1 @@
+always read me file in each directory
